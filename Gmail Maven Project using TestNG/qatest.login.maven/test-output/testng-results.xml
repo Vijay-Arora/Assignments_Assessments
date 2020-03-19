@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-18T12:31:25 IST" name="Default suite" finished-at="2020-03-18T12:31:57 IST" duration-ms="31976">
+    <groups>
+    </groups>
+    <test started-at="2020-03-18T12:31:25 IST" name="Default test" finished-at="2020-03-18T12:31:57 IST" duration-ms="31976">
+      <class name="qatest.maven.testcases.HomepageTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:qatest.maven.testcases.HomepageTest@36c88a32]" started-at="2020-03-18T12:31:25 IST" name="beforeTest" finished-at="2020-03-18T12:31:38 IST" duration-ms="12589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="verifyTitle()[pri:0, instance:qatest.maven.testcases.HomepageTest@36c88a32]" started-at="2020-03-18T12:31:38 IST" name="verifyTitle" finished-at="2020-03-18T12:31:38 IST" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="verifyLoginFunctionality()[pri:1, instance:qatest.maven.testcases.HomepageTest@36c88a32]" started-at="2020-03-18T12:31:38 IST" name="verifyLoginFunctionality" finished-at="2020-03-18T12:31:57 IST" duration-ms="18851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFunctionality -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:qatest.maven.testcases.HomepageTest@36c88a32]" started-at="2020-03-18T12:31:57 IST" name="afterSuite" finished-at="2020-03-18T12:32:02 IST" duration-ms="4307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- qatest.maven.testcases.HomepageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

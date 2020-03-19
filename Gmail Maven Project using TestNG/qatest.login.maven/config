@@ -1,0 +1,5 @@
+url = https://gmail.com
+environment = qa
+username = qa.automation843@gmail.com
+password=Vijay@test
+browser=chrome

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Gmail login Test Suite" verbose="1" >
+  <test name="Checking Login Functionality" >
+    <classes>
+      <class name="qatest.maven.testcases.DashboardTC"/>
+      <class name="qatest.maven.testcases.HomePageTC"/>
+      <class name="qatest.maven.testcases.LoginPageTC"/>
+    </classes>
+ </test>
+</suite>
